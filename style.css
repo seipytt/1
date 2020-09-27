@@ -1,0 +1,34 @@
+body {
+  background-color: salmon;
+}
+
+body div {
+  width: 200px;
+  height: 200px;
+  border: 1px red solid;
+  position: relative;
+  overflow: auto;
+}
+
+h2 {
+  text-align: justify;
+  font-weight: lighter;
+}
+
+div p {
+  font-size: 1rem;
+  margin: auto;
+}
+
+.rem {
+  font-size: 2rem;
+}
+
+.px {
+  font-size: 32px;
+}
+
+.porcen {
+  font-size: 20%;
+}
+/*# sourceMappingURL=style.css.map */
